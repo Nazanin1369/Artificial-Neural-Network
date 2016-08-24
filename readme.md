@@ -1,7 +1,7 @@
 ### Implementation of Perceptron in Python
 
 
-#### Project Overview
+### Project Overview
 
 The first perceptron algorithm was implemented in 1950 in custom hardware at the _Cornell Aeronautical Laboratory_ by _Frank Rosenblatt_.
 
